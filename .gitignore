@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+.env
+.venv/
+*.log
+
+# Data, images, weights
+ocr/core/weights/
+ocr/core/data/
+*.pth
+*.pt
+*.zip
+*.jpg
+*.png
+*.jpeg
+*.tif
+*.bmp
+
+# Submodule mmcv
+ocr/core/mmcv/

@@ -1,0 +1,14 @@
+name: craftdet
+
+dependencies:
+  - python=3.10
+  - gradio
+  - pytorch
+  - torchvision 
+  - opencv
+  - numpy
+  - onnxruntime
+  - fastapi
+  - mmcv=2.1.0
+  - pdf2image
+  - pydantic=2.8.2
